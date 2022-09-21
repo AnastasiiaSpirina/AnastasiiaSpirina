@@ -1,5 +1,7 @@
 ### Hi there 👋 my name is Anastasiia or Nastya
 📫 How to reach me: a.spirina@gmx.de
+😉 I want to learn more about IT
+👀 balance is important
 
 <!--
 **AnastasiiaSpirina/AnastasiiaSpirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
