@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Anastasiia or Nastya
 📫 How to reach me: a.spirina@gmx.de
-😉 I want to learn more about IT
+😉 I am excited to learn everything about programming
 👀 balance is important
 
 <!--
