@@ -2,6 +2,7 @@
 📫 How to reach me: a.spirina@gmx.de
 😉 I am excited to learn everything about programming
 👀 balance is important
+✔ You are exactly where you need to be
 
 <!--
 **AnastasiiaSpirina/AnastasiiaSpirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
